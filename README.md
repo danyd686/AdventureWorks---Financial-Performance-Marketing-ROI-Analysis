@@ -1,74 +1,148 @@
-# AdventureWorks---Financial-Performance-Marketing-ROI-Analysis
+# 📈 AdventureWorks - Financial Performance & ROI Analysis
 
 ## 📌 Project Overview
 
-Breve descripción del proyecto.
+This project analyzes AdventureWorks sales, products, territories, and marketing campaign data across five international markets to evaluate financial performance and marketing efficiency.
+
+The objective was to identify high-performing markets, detect inefficiencies in advertising investments, and generate business recommendations to improve profitability and reduce market dependency.
+
+---
 
 ## 🎯 Business Problem
 
-Explicación del problema de negocio.
+AdventureWorks needed to understand:
 
-## 📂 Dataset
+- Which international markets generate the highest revenue and profit.
+- How effective marketing investments are across different regions.
+- Which markets represent growth opportunities.
+- How to optimize marketing budget allocation.
 
-Descripción de las fuentes de datos.
+---
 
 ## 🛠️ Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- SQL (si aplica)
-- Google Sheets (si aplica)
+- SQL
+- Google Sheets
+- Data Cleaning
+- Data Validation (QA)
+- KPI Analysis
+- ROI Analysis
+- Dashboard Development
+- Business Intelligence
+- Executive Reporting
+- Data Storytelling
 
-## 🔎 Process
+---
 
-### 1. Data Collection
+## 🔄 Process
 
-...
+### 1. Data Extraction & Data Cleaning
 
-### 2. Data Cleaning
+- Navigated a relational database schema.
+- Built SQL JOINs to combine multiple tables.
+- Filtered and cleaned datasets.
+- Handled NULL values.
+- Standardized categories and data types.
 
-...
+### 2. Financial KPI Calculation
 
-### 3. Exploratory Data Analysis (EDA)
+Calculated key business metrics, including:
 
-...
+- Revenue
+- Costs
+- Gross Profit
+- Profit Margin
+- Return on Investment (ROI)
 
-### 4. KPI Analysis
+### 3. Quality Assurance (QA)
 
-...
+Validated calculations by performing:
 
-## 📊 Key Findings
+- Total revenue checks
+- Profit validation
+- Margin consistency verification
 
-- Hallazgo 1
-- Hallazgo 2
-- Hallazgo 3
+### 4. Data Visualization & Executive Reporting
+
+Created dashboards and structured findings using the:
+
+**Context → Finding → Implication (C → F → I)** framework.
+
+---
+
+## 🔑 Key Findings
+
+### 🇺🇸 United States
+
+- Highest revenue market: **$3.35M**
+- Highest ROI: **75.75%**
+
+### 🇨🇦 Canada
+
+- Highest profit margin: **44.76%**
+- Strong growth opportunity despite lower market share.
+
+### 🇪🇺 European Markets
+
+- Marketing inefficiencies detected.
+- ROI ranged between **17% and 22%**.
+
+### 📊 Market Concentration Risk
+
+- USA and Australia generated **59.88% of total profits**, creating a dependency risk.
+
+---
 
 ## 💡 Business Recommendations
 
-- Recomendación 1
-- Recomendación 2
+- Redistribute marketing budgets toward higher-performing markets.
+- Improve advertising efficiency in Europe.
+- Increase investment in Canada due to its strong profitability.
+- Diversify revenue streams to reduce dependency on USA and Australia.
 
-## 📷 Dashboard / Visualizations
+---
 
-![Chart 1](images/chart1.png)
+## 📈 Project Impact
 
-![Chart 2](images/chart2.png)
+This analysis identified opportunities to improve marketing efficiency and optimize investment allocation by detecting significant ROI differences between international markets.
 
-## 🚀 Skills Demonstrated
+The project generated actionable recommendations to support strategic decision-making and long-term business growth.
 
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis
-- Business Intelligence
-- Data Storytelling
-- Data Visualization
+---
+
+## 📷 Dashboard
+
+### Financial Performance Dashboard
+
+![Dashboard 1](images/dashboard1.png)
+
+### ROI Analysis Dashboard
+
+![Dashboard 2](images/dashboard2.png)
+
+---
+
+## 📂 Repository Structure
+
+```
+AdventureWorks-ROI-Analysis/
+│
+├── README.md
+├── SQL_queries.sql
+├── Dashboard.xlsx
+└── images/
+    ├── dashboard1.png
+    └── dashboard2.png
+```
+
+---
 
 ## 👨‍💻 Author
 
-Danilo Elías Gallego López
+**Danilo Elías Gallego López**
 
 Junior Data Analyst | Reporting | Business Intelligence | Sales Analytics
 
 📧 danyd686@gmail.com
+
+🔗 LinkedIn: Add your profile link here
