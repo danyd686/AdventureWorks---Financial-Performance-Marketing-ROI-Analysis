@@ -1,5 +1,4 @@
 # AdventureWorks---Financial-Performance-Marketing-ROI-Analysis
-# Nombre del Proyecto
 
 ## 📌 Project Overview
 
