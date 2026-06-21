@@ -139,10 +139,11 @@ AdventureWorks-ROI-Analysis/
 
 ## 👨‍💻 Author
 
-**Danilo Elías Gallego López**
+**Danilo Gallego López**
 
 Junior Data Analyst | Reporting | Business Intelligence | Sales Analytics
 
 📧 danyd686@gmail.com
 
-🔗 LinkedIn: Add your profile link here
+🔗 LinkedIn: www.linkedin.com/in/danilogallego
+
