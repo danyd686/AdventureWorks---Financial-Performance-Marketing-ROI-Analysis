@@ -112,11 +112,11 @@ The project generated actionable recommendations to support strategic decision-m
 
 ## 📷 Dashboard
 
-### Financial Performance Dashboard
+### ROI Analysis Dashboard
 
 ![Dashboard 1](images/dashboard1.png)
 
-### ROI Analysis Dashboard
+###  Financial Performance Dashboard
 
 ![Dashboard 2](images/dashboard2.png)
 
