@@ -99,11 +99,12 @@ Created dashboards and structured findings using the:
 
 ---
 
-## 📈 Project Impact
+## 🚀 Project Impact
 
-This analysis identified opportunities to improve marketing efficiency and optimize investment allocation by detecting significant ROI differences between international markets.
-
-The project generated actionable recommendations to support strategic decision-making and long-term business growth.
+- Analyzed financial performance across 5 international markets  
+- Evaluated marketing ROI and profitability across global campaigns  
+- Identified USA as the highest revenue market with $3.35M in sales  
+- Detected low advertising efficiency in European markets with ROI between 17% and 22%  
 
 ---
 
