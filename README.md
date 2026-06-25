@@ -10,12 +10,9 @@ The objective was to identify high-performing markets, detect inefficiencies in 
 
 ## 🎯 Business Problem
 
-AdventureWorks needed to understand:
+Companies need to evaluate whether marketing investments are generating profitable returns across international markets.
 
-- Which international markets generate the highest revenue and profit.
-- How effective marketing investments are across different regions.
-- Which markets represent growth opportunities.
-- How to optimize marketing budget allocation.
+The objective was to identify high-performing markets, detect inefficient marketing spend, and generate recommendations to improve profitability.
 
 ---
 
