@@ -99,7 +99,7 @@ Created dashboards and structured findings using the:
 
 ---
 
-## 🚀 Project Impact
+## 🚀 My Contribution to the project
 
 - Analyzed financial performance across 5 international markets  
 - Evaluated marketing ROI and profitability across global campaigns  
