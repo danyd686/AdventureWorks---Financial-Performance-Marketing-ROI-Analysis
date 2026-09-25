@@ -99,7 +99,7 @@ Created dashboards and structured findings using the:
 
 ---
 
-## 🚀 My Contribution to the project
+## 🚀 My Contribution to the project 
 
 - Analyzed financial performance across 5 international markets  
 - Evaluated marketing ROI and profitability across global campaigns  
@@ -108,8 +108,9 @@ Created dashboards and structured findings using the:
 
 ---
 ## Proceso y decisiones:
-Enfocé el análisis en comparar el desempeño financiero y la eficiencia del marketing entre mercados. Integré las tablas necesarias mediante SQL y prioricé indicadores de revenue, profit margin y ROI para poder comparar mercados con diferentes niveles de ventas e inversión. También validé los cálculos de revenue, profit y márgenes antes de utilizar los resultados para las recomendaciones. Finalmente, utilicé el análisis comparativo para identificar mercados con alta rentabilidad, mercados con menor eficiencia de marketing y riesgos de concentración.
----
+
+**Enfocé el análisis en comparar el desempeño financiero y la eficiencia del marketing entre mercados. Integré las tablas necesarias mediante SQL y prioricé indicadores de revenue, profit margin y ROI para poder comparar mercados con diferentes niveles de ventas e inversión. También validé los cálculos de revenue, profit y márgenes antes de utilizar los resultados para las recomendaciones. Finalmente, utilicé el análisis comparativo para identificar mercados con alta rentabilidad, mercados con menor eficiencia de marketing y riesgos de concentración.
+**---
 ## 📷 Dashboard
 
 ### ROI Analysis Dashboard
