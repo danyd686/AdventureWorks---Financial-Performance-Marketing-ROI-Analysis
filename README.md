@@ -15,6 +15,14 @@ Companies need to evaluate whether marketing investments are generating profitab
 The objective was to identify high-performing markets, detect inefficient marketing spend, and generate recommendations to improve profitability.
 
 ---
+## 🚀 My Contribution to the project 
+
+- Analyzed financial performance across 5 international markets  
+- Evaluated marketing ROI and profitability across global campaigns  
+- Identified USA as the highest revenue market with $3.35M in sales  
+- Detected low advertising efficiency in European markets with ROI between 17% and 22%
+
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -99,15 +107,6 @@ Created dashboards and structured findings using the:
 - Improve advertising efficiency in Europe.
 - Increase investment in Canada due to its strong profitability.
 - Diversify revenue streams to reduce dependency on USA and Australia.
-
----
-
-## 🚀 My Contribution to the project 
-
-- Analyzed financial performance across 5 international markets  
-- Evaluated marketing ROI and profitability across global campaigns  
-- Identified USA as the highest revenue market with $3.35M in sales  
-- Detected low advertising efficiency in European markets with ROI between 17% and 22%  
 
 ---
 ## 🔎 Approach & Key Decisions
