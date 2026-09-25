@@ -24,21 +24,6 @@ The objective was to identify high-performing markets, detect inefficient market
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- SQL
-- Google Sheets
-- Data Cleaning
-- Data Validation (QA)
-- KPI Analysis
-- ROI Analysis
-- Dashboard Development
-- Business Intelligence
-- Executive Reporting
-- Data Storytelling
-
----
-
 ## 🔄 Process
 
 ### 1. Data Extraction & Data Cleaning
@@ -128,6 +113,18 @@ Created dashboards and structured findings using the:
 ![Dashboard 2](images/dashboard2.png)
 
 ---
+## 🛠️ Tools & Analytical Decisions
+
+* **SQL:** Used JOINs, aggregations, and calculated metrics to combine sales, product, territory, and marketing data for market-level analysis.
+* **Google Sheets:** Used for KPI validation, calculations, comparisons, and supporting financial analysis.
+* **Revenue & Profit Analysis:** Compared revenue, costs, profit, and margins to evaluate the financial performance of each market.
+* **ROI Analysis:** Compared marketing investment with generated profit to identify differences in marketing efficiency across markets.
+* **Market Comparison:** Evaluated markets using multiple KPIs rather than relying on revenue alone, allowing profitability and marketing efficiency to be considered together.
+* **Data Validation:** Performed quality checks on key calculations before using the results to develop business recommendations.
+* **Business Reporting:** Translated the analysis into dashboards and concise insights focused on market performance and resource allocation.
+
+---
+
 
 ## 📂 Repository Structure
 
