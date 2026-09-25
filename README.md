@@ -107,10 +107,14 @@ Created dashboards and structured findings using the:
 - Detected low advertising efficiency in European markets with ROI between 17% and 22%  
 
 ---
-## Proceso y decisiones:
+## Approach & Key Decisions
 
-**Enfocé el análisis en comparar el desempeño financiero y la eficiencia del marketing entre mercados. Integré las tablas necesarias mediante SQL y prioricé indicadores de revenue, profit margin y ROI para poder comparar mercados con diferentes niveles de ventas e inversión. También validé los cálculos de revenue, profit y márgenes antes de utilizar los resultados para las recomendaciones. Finalmente, utilicé el análisis comparativo para identificar mercados con alta rentabilidad, mercados con menor eficiencia de marketing y riesgos de concentración.
-**---
+- Compared market profitability and marketing efficiency, rather than focusing only on revenue.
+- Prioritized Revenue, Profit Margin, and ROI to evaluate market performance.
+- Performed data validation and quality checks before using the results for recommendations.
+- Identified markets with strong profitability, lower marketing efficiency, and potential profit concentration risks.
+
+---
 ## 📷 Dashboard
 
 ### ROI Analysis Dashboard
