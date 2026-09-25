@@ -67,7 +67,7 @@ Created dashboards and structured findings using the:
 
 ---
 
-## 🔑 Key Findings
+## 🔑 Key Findings & Learning
 
 ### 🇺🇸 United States
 
@@ -88,6 +88,9 @@ Created dashboards and structured findings using the:
 
 - USA and Australia generated **59.88% of total profits**, creating a dependency risk.
 
+### Learning
+
+- Learned to connect SQL analysis and financial KPIs with business recommendations.
 ---
 
 ## 💡 Business Recommendations
@@ -107,7 +110,7 @@ Created dashboards and structured findings using the:
 - Detected low advertising efficiency in European markets with ROI between 17% and 22%  
 
 ---
-## Approach & Key Decisions
+## 🔎 Approach & Key Decisions
 
 - Compared market profitability and marketing efficiency, rather than focusing only on revenue.
 - Prioritized Revenue, Profit Margin, and ROI to evaluate market performance.
